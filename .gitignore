@@ -1,2 +1,4 @@
 /node_modules
-.env
+# Deveria não incluir o arquivo .env no github mas para fins didáticos foi incluído está incluido
+# No seu não deve ser comentado a linha de baixo.
+# .env
